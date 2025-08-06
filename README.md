@@ -1,6 +1,9 @@
-# API Dashboard
+## API Dashboard
 
 A web app that brings together different APIs to offer useful services like weather updates, entertainment, financial info, and more.
+
+## Demo
+https://alhadwan.github.io/API-Dashboard/
 
 ## Features
 
